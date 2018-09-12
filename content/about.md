@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-09-10T15:02:00+08:00
-draft: true
+draft: false
 ---
 
 #这是关于我们的页面
