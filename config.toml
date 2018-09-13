@@ -1,30 +1,29 @@
 baseURL = "https://wgbbiao.github.io/wgb237/"
-languageCode = "en-us"
-title = "我的第一站"
-theme = "bleak"
 domainVerification = "hahahaahah"
-
+languageCode = "en-us"
+theme = "bleak"
+title = "我的第一站"
 [Params]
-    instagram = "123"
-    subtitle = "我的第一次测试"
-    cover = "about/"
-    mainsections = ["post"]
-
-[menu]
-
-  [[menu.subscription]]
-    title="ddd"
-
-  [[menu.main]]
-    identifier = "about"
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = -110
-
-  [[menu.main]]
-    name = "getting started"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/test1/"
-    weight = -100
+cover = "about/"
+instagram = "123"
+mainsections = ["post"]
+subtitle = "我的第一次测试"
+[[menu.main]]
+identifier = "about"
+name = "about hugo"
+pre = "<i class='fa fa-heart'></i>"
+url = "/about/"
+weight = -110
+[[menu.main]]
+name = "getting started"
+post = "<span class='alert'>New!</span>"
+pre = "<i class='fa fa-road'></i>"
+url = "/test1/"
+weight = -100
+[[menu.subscription]]
+title = "ddd"
+[params]
+cover = "about/"
+instagram = "123"
+mainsections = ["post"]
+subtitle = "我的第二次测试"
