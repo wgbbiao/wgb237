@@ -1,10 +1,19 @@
-baseURL = "/"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "我的第一站"
 theme = "bleak"
 domainVerification = "hahahaahah"
 
+[Params]
+    instagram = "123"
+    subtitle = "我的第一次测试"
+    cover = "about/"
+    mainsections = ["post"]
+
 [menu]
+
+  [[menu.subscription]]
+    title="ddd"
 
   [[menu.main]]
     identifier = "about"
