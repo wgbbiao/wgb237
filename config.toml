@@ -3,11 +3,6 @@ domainVerification = "hahahaahah"
 languageCode = "en-us"
 theme = "bleak"
 title = "我的第一站"
-[Params]
-cover = "about/"
-instagram = "123"
-mainsections = ["post"]
-subtitle = "我的第一次测试"
 [[menu.main]]
 identifier = "about"
 name = "about hugo"
