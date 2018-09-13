@@ -19,6 +19,8 @@ sections:
   label: Pages
   create: all
   match: "*"
+  templates:
+  - f97164e9-8101-413c-aa62-c4fc1756a581
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
