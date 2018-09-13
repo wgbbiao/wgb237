@@ -1,0 +1,11 @@
+---
+label: 添加文章
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: 标题
+  name: title
+- type: datetime
+  name: date
+  label: 发布时间
