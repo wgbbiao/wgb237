@@ -5,4 +5,5 @@ is_partial: false
 fields:
 - type: text
 pages:
+- post/16.md
 - content/test1.md
