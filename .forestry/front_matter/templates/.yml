@@ -9,5 +9,8 @@ fields:
 - type: datetime
   name: date
   label: 发布时间
+- type: textarea
+  label: 摘要
+  name: summary
 pages:
 - content/post/17.md
