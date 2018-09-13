@@ -9,3 +9,5 @@ fields:
 - type: datetime
   name: date
   label: 发布时间
+pages:
+- content/post/17.md
