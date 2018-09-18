@@ -4,19 +4,20 @@ languageCode = "en-us"
 theme = "bleak"
 title = "我的第一站"
 [[menu.main]]
-identifier = "about"
-name = "about hugo"
-pre = "<i class='fa fa-heart'></i>"
-url = "/about/"
-weight = -110
-[[menu.main]]
 name = "getting started"
 post = "<span class='alert'>New!</span>"
 pre = "<i class='fa fa-road'></i>"
 url = "/test1/"
-weight = -100
+weight = 2
+[[menu.main]]
+identifier = "about"
+name = "about hugo"
+pre = "<i class='fa fa-heart'></i>"
+url = "/about/"
+weight = 1
 [[menu.subscription]]
 title = "ddd"
+weight = 1
 [params]
 cover = "about/"
 instagram = "123"
