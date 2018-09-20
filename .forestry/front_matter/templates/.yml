@@ -10,4 +10,5 @@ fields:
   name: date
   label: 发布时间
 pages:
+- content/post/about.md
 - content/post/17.md
