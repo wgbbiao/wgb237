@@ -18,5 +18,5 @@ weight = 1
 [params]
 cover = "about/"
 instagram = "123"
-mainsections = ["post"]
+mainsections = ["", "blog", "post"]
 subtitle = "我的第二次测试"
