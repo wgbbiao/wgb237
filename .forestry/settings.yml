@@ -7,7 +7,6 @@ sections:
 - type: document
   path: 哈
   label: 这是什么
-  match: "**/*"
 - type: directory
   path: content/post
   label: Post
