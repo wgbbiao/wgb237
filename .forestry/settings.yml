@@ -4,6 +4,10 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: 哈
+  label: 这是什么
+  match: "**/*"
 - type: directory
   path: content/post
   label: Post
