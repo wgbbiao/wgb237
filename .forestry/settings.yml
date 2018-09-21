@@ -15,7 +15,7 @@ sections:
   templates:
   - f97164e9-8101-413c-aa62-c4fc1756a581
 - type: heading
-  label: H这是什么？
+  label: 单面
 - type: directory
   path: content
   label: Pages
