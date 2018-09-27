@@ -1,0 +1,8 @@
+---
+label: aa4
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: la
+  label: lal
