@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: 单面
 - type: document
-  path: test10
+  path: test10.md
   label: test10
 - type: document
   path: test2
