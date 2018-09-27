@@ -6,3 +6,4 @@ fields:
 - type: text
   name: la
   label: lal
+- type: text
