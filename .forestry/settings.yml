@@ -7,7 +7,6 @@ sections:
 - type: document
   path: test10
   label: test10
-  match: "**/*"
 - type: document
   path: test2
   label: test1
