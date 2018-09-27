@@ -5,7 +5,19 @@ is_partial: false
 fields:
 - type: text
   name: la
-  label: lal
+  label: 标题
 - type: text
+  label: 描述
+  name: desc
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - a
+    - b
+    - c
+  label: 组织
+  name: org
 pages:
 - content/test/about.md
