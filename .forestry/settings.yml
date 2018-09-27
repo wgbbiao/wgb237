@@ -7,6 +7,7 @@ sections:
 - type: document
   path: test2
   label: test1
+  read_only: true
 - type: directory
   path: content/post
   label: Post
