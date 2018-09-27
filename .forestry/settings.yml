@@ -4,8 +4,13 @@ auto_deploy: true
 admin_path: backend
 webhook_url: 
 sections:
-- type: heading
-  label: 产品
+- type: directory
+  path: content/test
+  label: TEST2
+  create: all
+  match: "**/*"
+  templates:
+  - aa4
 - type: directory
   path: tv
   label: 电视
