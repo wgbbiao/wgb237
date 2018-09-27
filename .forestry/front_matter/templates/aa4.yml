@@ -7,3 +7,5 @@ fields:
   name: la
   label: lal
 - type: text
+pages:
+- content/test/about.md
