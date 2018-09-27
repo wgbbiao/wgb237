@@ -8,9 +8,6 @@ sections:
   path: test2
   label: test1
   match: "**/*"
-- type: document
-  path: '2333'
-  label: 这是什么
 - type: directory
   path: content/post
   label: Post
