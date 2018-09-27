@@ -4,10 +4,8 @@ auto_deploy: true
 admin_path: backend
 webhook_url: 
 sections:
-- type: heading
-  label: 文档
 - type: document
-  path: 哈
+  path: '2333'
   label: 这是什么
 - type: directory
   path: content/post
