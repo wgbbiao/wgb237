@@ -4,6 +4,8 @@ auto_deploy: true
 admin_path: backend
 webhook_url: 
 sections:
+- type: heading
+  label: 单面
 - type: document
   path: test10
   label: test10
@@ -18,8 +20,6 @@ sections:
   match: "**/*"
   templates:
   - f97164e9-8101-413c-aa62-c4fc1756a581
-- type: heading
-  label: 单面
 - type: directory
   path: content
   label: Pages
