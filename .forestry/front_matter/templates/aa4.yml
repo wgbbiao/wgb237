@@ -19,5 +19,8 @@ fields:
     - c
   label: 组织
   name: org
+- type: boolean
+  label: 是否
+  name: __
 pages:
 - content/test/about.md
