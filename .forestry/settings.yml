@@ -4,10 +4,9 @@ auto_deploy: true
 admin_path: backend
 webhook_url: 
 sections:
-- type: directory
-  path: content/TESTall
+- type: document
+  path: content/TESTall.md
   label: TESTall
-  create: documents
   match: "**/*"
 - type: directory
   path: content/test
