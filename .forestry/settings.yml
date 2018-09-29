@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/TESTall.md
   label: TESTall
-  match: "**/*"
 - type: directory
   path: content/test
   label: TEST2
