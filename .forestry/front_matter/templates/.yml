@@ -10,6 +10,7 @@ fields:
   name: date
   label: 发布时间
 pages:
+- content/TESTall/about.md
 - content/post/s3测试.md
 - content/post/关于我们.md
 - tv/联系我们.md
