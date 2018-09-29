@@ -3,6 +3,7 @@ domainVerification = "hahahaahah"
 languageCode = "en-us"
 theme = "bleak"
 title = "我的第一站"
+uglyURLs = true
 [[menu.main]]
 name = "getting started"
 post = "<span class='alert'>New!</span>"
