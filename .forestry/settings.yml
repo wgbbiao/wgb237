@@ -5,6 +5,11 @@ admin_path: backend
 webhook_url: 
 sections:
 - type: directory
+  path: content/TESTall
+  label: TESTall
+  create: documents
+  match: "**/*"
+- type: directory
   path: content/test
   label: TEST2
   create: all
