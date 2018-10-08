@@ -23,5 +23,6 @@ fields:
   label: 是否
   name: __
 pages:
+- content/test/测试3.md
 - content/test/测试1.md
 - content/test/about.md
