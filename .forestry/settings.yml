@@ -12,13 +12,6 @@ sections:
   templates:
   - aa4
 - type: directory
-  path: tv
-  label: 电视
-  create: all
-  match: "**/*"
-  templates:
-  - f97164e9-8101-413c-aa62-c4fc1756a581
-- type: directory
   path: content/post
   label: Post
   create: all
@@ -37,6 +30,13 @@ sections:
 - type: document
   path: content/TESTall.md
   label: TESTall
+- type: directory
+  path: tv
+  label: 电视
+  create: all
+  match: "**/*"
+  templates:
+  - f97164e9-8101-413c-aa62-c4fc1756a581
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
