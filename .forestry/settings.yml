@@ -10,6 +10,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - f97164e9-8101-413c-aa62-c4fc1756a581
   - aa4
 - type: directory
   path: content/post
