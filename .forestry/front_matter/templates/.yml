@@ -9,6 +9,9 @@ fields:
 - type: datetime
   name: date
   label: 发布时间
+- type: file
+  name: pic
+  label: 缩略图
 pages:
 - content/post/s3测试.md
 - content/post/关于我们.md
